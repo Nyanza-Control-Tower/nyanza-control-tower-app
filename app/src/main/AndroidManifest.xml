@@ -13,7 +13,7 @@
         android:allowBackup="true"
         android:label="NRW Control Tower"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AppCompat.NoActionBar"
+        android:theme="@android:style/Theme.NoTitleBar"
         android:usesCleartextTraffic="true">
         <activity
             android:name=".MainActivity"
