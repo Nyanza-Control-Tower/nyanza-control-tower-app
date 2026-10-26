@@ -17,7 +17,7 @@ import android.webkit.WebViewClient;
 public class MainActivity extends Activity {
 
     // 🔴 YOUR PUBLISHED WEB APP URL:
-    private static final String WEB_APP_URL = "https://script.google.com/macros/s/AKfycbz_YOUR_SCRIPT_ID_HERE/exec";
+    private static final String WEB_APP_URL = "https://script.google.com/macros/s/AKfycbw9BDDy8_HPUB70UZPe5jYaU2GUYqGPYmNo-DnH1omc0-J7SU9WEHM1LDooRVmCjdSWWw/exec";
 
     private WebView webView;
     private ValueCallback<Uri[]> mFilePathCallback;
